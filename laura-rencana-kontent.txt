@@ -1,0 +1,7 @@
+RENCANA KONTEN LAURA
+- KODINGAN
+  * php
+  * html
+  * javascript
+- AKUNTANSI
+- VLOG
